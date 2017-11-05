@@ -1,2 +1,0 @@
-# EthExchange
-Ethereum Exchange
